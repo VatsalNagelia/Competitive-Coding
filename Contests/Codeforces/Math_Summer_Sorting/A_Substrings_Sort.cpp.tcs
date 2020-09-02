@@ -1,0 +1,1 @@
+[{"input":"5\na\naba\nabacaba\nba\naba\n","output":"YES\na\nba\naba\naba\nabacaba\n"},{"input":"5\na\nabacaba\nba\naba\nabab\n","output":"NO\n"},{"input":"3\nqwerty\nqwerty\nqwerty\n","output":"YES\nqwerty\nqwerty\nqwerty\n"}]

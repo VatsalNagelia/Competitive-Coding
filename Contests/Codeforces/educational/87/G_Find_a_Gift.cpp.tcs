@@ -1,0 +1,1 @@
+[{"input":"2\n2 1\n-\n-\n-\nFIRST\n-\n5 2\n-\n-\n-\nFIRST\n-\n-\n-\nSECOND\n-\n-\n-\nEQUAL\n-\n","output":"-\n-\n? 1 1\n1\n2\n-\n! 2\n-\n? 1 1\n1\n2\n-\n? 2 3\n4 2\n1 3 5\n-\n? 1 1\n4\n5\n-\n! 1\n"}]

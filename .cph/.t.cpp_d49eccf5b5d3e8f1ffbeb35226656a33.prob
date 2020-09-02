@@ -1,1 +1,0 @@
-{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: t","srcPath":"/home/vats/Competitive_coding/practice2/t.cpp","tests":[{"id":1595233415802,"input":"4 5\n1 2 7\n1 4 6\n4 2 9\n4 3 8\n2 3 6","output":"19"}],"timeLimit":3000,"url":"/home/vats/Competitive_coding/practice2/t.cpp"}

@@ -1,0 +1,1 @@
+[{"input":"aaba\nabaa","output":"YES"},{"input":"aabb\nabab","output":"NO"}]

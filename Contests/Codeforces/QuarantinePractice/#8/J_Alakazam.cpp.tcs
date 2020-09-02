@@ -1,0 +1,1 @@
+[{"input":"3 6\n1 2 3\nget 1\nget 3\nshuffle 1 2\nshuffle 2 3\nget 1\nget 3\n","output":"1.000000000000\n3.000000000000\n1.500000000000\n2.250000000000\n"}]
